@@ -26,9 +26,9 @@ Another feature that i would like to implement is making class courses for the s
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
--[HTML](https://html.com/)
+- [HTML](https://html.com/)
     - The project uses **HTML** to describe the structure of Web pages
--[CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
     - The project uses **CSS** to to style and layout web pages
     
 ## Testing 
